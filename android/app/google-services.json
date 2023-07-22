@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218379717523",
+    "project_id": "chat-cubit-5a5dc",
+    "storage_bucket": "chat-cubit-5a5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218379717523:android:bbede86223e8181e0b7666",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218379717523-an3hqmdrkaegn3cc713vlrjknocsp840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNI1Lf62ddeWP9mUguu3spEbUrkFLTvl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218379717523-an3hqmdrkaegn3cc713vlrjknocsp840.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
